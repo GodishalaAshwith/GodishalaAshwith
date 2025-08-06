@@ -8,11 +8,11 @@
 
 I'm a passionate **Information Technology** student at **Chaitanya Bharathi Institute of Technology** with a strong foundation in full-stack development and a keen interest in building scalable, user-centric applications. Currently maintaining a **9.34/10.0 GPA** and actively contributing to the tech community through open-source projects and leadership roles.
 
-- 🎓 **Bachelor of Engineering in IT** (2023-2027)
-- 🌍 **Location**: Hyderabad, India
-- 💼 **Experience**: Frontend Development Intern at CODTECH IT Solutions
-- 🎯 **Focus**: MERN Stack, Python, AI Integration, and Scalable Systems
-- 🏆 **Achievement**: Qualified for India's Biggest Web3 & AI Hackathon - HackIndia
+- 🎓 **Bachelor of Engineering in IT** (2023–2027)  
+- 🌍 **Location**: Hyderabad, India  
+- 💼 **Experience**: Frontend Development Intern at CODTECH IT Solutions  
+- 🎯 **Focus**: MERN Stack, Python, AI Integration, and Scalable Systems  
+- 🏆 **Achievement**: Qualified for India's Biggest Web3 & AI Hackathon – HackIndia  
 
 ## 🛠️ Tech Stack
 
@@ -41,67 +41,67 @@ I'm a passionate **Information Technology** student at **Chaitanya Bharathi Inst
 
 ### 🎓 [Course Cred](https://github.com/GodishalaAshwith/Course-Cred)
 **MERN Stack Educational Platform with AI Integration**
-- 🤖 Integrated **GeminiAPI** for intelligent content generation
-- ⚡ Reduced content creation time by **60%**
-- 💰 Built credit-based marketplace serving **500+ users**
-- 🎯 Achieved **35% improvement** in user experience through testing
+- 🤖 Integrated **GeminiAPI** for intelligent content generation  
+- ⚡ Reduced content creation time by **60%**  
+- 💰 Built credit-based marketplace serving **500+ users**  
+- 🎯 Achieved **35% improvement** in user experience through testing  
 
 **Tech Stack**: React, Node.js, Python, GeminiAPI, MongoDB
 
 ### 🏢 [Multi-Tenant Task Management Platform](https://github.com/GodishalaAshwith/Multi_Tenant_Task_Management_Platform)
 **Enterprise-Grade Task Management Solution**
-- 🔐 Implemented **role-based access control** for multi-tenant architecture
-- 📧 Built automated email notification system
-- 🚀 Deployed with **Docker** for scalable backend architecture
-- ⚡ Achieved **25% faster page load times** for 1,000+ active users
-- 🧪 Maintained **90% test coverage** with Jest
+- 🔐 Implemented **role-based access control** for multi-tenant architecture  
+- 📧 Built automated email notification system  
+- 🚀 Deployed with **Docker** for scalable backend architecture  
+- ⚡ Achieved **25% faster page load times** for 1,000+ active users  
+- 🧪 Maintained **90% test coverage** with Jest  
 
 **Tech Stack**: MERN Stack, Docker, Jest, Email Services
 
 ### 🐾 [Pawwfect - Pet Adoption Platform](https://github.com/GodishalaAshwith/Pawwfect)
 **Full-Stack Pet Adoption Website**
-- 🔒 Implemented **AES-256 encryption** for secure data handling
-- 📱 Created custom JSP tag library reducing code redundancy by **40%**
-- ✅ Ensured **GDPR compliance** with zero security incidents
-- 👥 Streamlined adoption workflow for **50+ simulated users**
+- 🔒 Implemented **AES-256 encryption** for secure data handling  
+- 📱 Created custom JSP tag library reducing code redundancy by **40%**  
+- ✅ Ensured **GDPR compliance** with zero security incidents  
+- 👥 Streamlined adoption workflow for **50+ simulated users**  
 
 **Tech Stack**: JSP, Servlets, MySQL, AES-256 Encryption
 
 ### 🔐 [CyberCipher](https://cybercipher.netlify.app/)
 **Interactive Cryptography Education Platform**
-- 🎯 Achieved **95% positive feedback** from 100+ users
-- ⚡ Optimized for **sub-2-second load times** across all devices
-- 📚 Translated complex cryptography concepts into interactive modules
-- 🏆 Improved performance scores by **30%**
+- 🎯 Achieved **95% positive feedback** from 100+ users  
+- ⚡ Optimized for **sub-2-second load times** across all devices  
+- 📚 Translated complex cryptography concepts into interactive modules  
+- 🏆 Improved performance scores by **30%**  
 
 **Tech Stack**: React, TailwindCSS, Responsive Design
 
 ## 💼 Professional Experience
 
 **Frontend Web Development Intern** | *CODTECH IT Solutions* | *July 2024 – Aug 2024*
-- ⚡ Reduced page load times by **30%** through performance optimization
-- 📈 Increased user engagement by **25%** via WCAG 2.1 accessibility implementation
-- 🎯 Improved SEO rankings across multiple client projects
+- ⚡ Reduced page load times by **30%** through performance optimization  
+- 📈 Increased user engagement by **25%** via WCAG 2.1 accessibility implementation  
+- 🎯 Improved SEO rankings across multiple client projects  
 
 ## 🌟 Leadership & Community
 
 ### 🔧 CBIT Open Source Community
 **Junior Developer & PR Manager** | *Jan 2025 – Present*
-- 🎓 Organized **Google Summer of Code workshop** for 75+ students
-- 📈 Increased participant GitHub activity by **40%**
-- 🏆 Led **OpenSys-Odyssey** technical competition with 150+ participants
+- 🎓 Organized **Google Summer of Code workshop** for 75+ students  
+- 📈 Increased participant GitHub activity by **40%**  
+- 🏆 Led **OpenSys-Odyssey** technical competition with 150+ participants  
 
 ### 🛡️ CBIT Cybersecurity Club
 **Technical Coordinator** | *July 2024 – Present*
-- 👥 Led 10-member volunteer team for **CyberImposter** competition
-- 🚀 Built and deployed educational cryptography platform
-- ⚡ Achieved cross-platform compatibility with optimized performance
+- 👥 Led 10-member volunteer team for **CyberImposter** competition  
+- 🚀 Built and deployed educational cryptography platform  
+- ⚡ Achieved cross-platform compatibility with optimized performance  
 
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GodishalaAshwith&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GodishalaAshwith&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=GodishalaAshwith&theme=radical&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -110,28 +110,26 @@ I'm a passionate **Information Technology** student at **Chaitanya Bharathi Inst
 
 ## 🏆 Certifications & Achievements
 
-- 🥇 **Microsoft Azure AI Fundamentals (AI-900)**
-- 🚀 **COSC Bootcamp** - ReactJS & FastAPI Training
-- 🤖 **SCRS Machine Learning Basics Bootcamp**
-- 🏆 **HackIndia Hackathon** - State Level Qualifier
-- 🎯 **Academic Excellence** - 9.34/10.0 GPA
+- 🥇 **Microsoft Azure AI Fundamentals (AI-900)**  
+- 🚀 **COSC Bootcamp** – ReactJS & FastAPI Training  
+- 🤖 **SCRS Machine Learning Basics Bootcamp**  
+- 🏆 **HackIndia Hackathon** – State Level Qualifier  
+- 🎯 **Academic Excellence** – 9.34/10.0 GPA  
 
 ## 🌐 Languages
 
-- 🇺🇸 **English** - Fluent
-- 🇮🇳 **Telugu** - Conversational
-- 🇮🇳 **Hindi** - Conversational  
-- 🇯🇵 **Japanese** - Basics
+- 🇺🇸 **English** – Fluent  
+- 🇮🇳 **Telugu** – Conversational  
+- 🇮🇳 **Hindi** – Conversational  
+- 🇯🇵 **Japanese** – Basics  
 
 ## 📫 Let's Connect!
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/godishalaashwith)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GodishalaAshwith)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashwith7777@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916309750200)
-
+  <a href="https://linkedin.com/in/godishalaashwith"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/GodishalaAshwith"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:ashwith7777@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="tel:+916309750200"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </div>
 
 ---
